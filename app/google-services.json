@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156960894539",
+    "firebase_url": "https://fasttap-3d044.firebaseio.com",
+    "project_id": "fasttap-3d044",
+    "storage_bucket": "fasttap-3d044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156960894539:android:91ca9e11357693077227ce",
+        "android_client_info": {
+          "package_name": "com.example.fasttap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156960894539-5d87brqm2qa2hctq6fkemfjqms65ss1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fasttap",
+            "certificate_hash": "8929e1dd68c99ee694b3e2c5dd2dd347c2e8c46b"
+          }
+        },
+        {
+          "client_id": "156960894539-fer3l1n00rn5o91be3difhqffkma9q1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-opqpzDJQ7ux6yQLJiofL2QGqQcok5kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156960894539-fer3l1n00rn5o91be3difhqffkma9q1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
